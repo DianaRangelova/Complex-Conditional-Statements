@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "AOmswfixhYWx+heln0MH4+1z/DZQg20moNOs5BlMwgjrsAyLvd4Oj8euZR3m6mS1wy98uwJ2c1PKB6YWGXFtKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\Complex-Conditional-Statements\\07-Vowel-or-Consonant\\P07-Vowel-or-Consonant.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

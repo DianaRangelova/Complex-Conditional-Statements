@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P01-Marketplace\obj\Debug\net6.0\P01-Marketplace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P01-Marketplace\obj\Debug\net6.0\P01-Marketplace.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P01-Marketplace\obj\Debug\net6.0\P01-Marketplace.AssemblyInfo.cs
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P01-Marketplace\obj\Debug\net6.0\P01-Marketplace.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P01-Marketplace\bin\Debug\net6.0\P01-Marketplace.exe
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P01-Marketplace\bin\Debug\net6.0\P01-Marketplace.deps.json
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P01-Marketplace\bin\Debug\net6.0\P01-Marketplace.runtimeconfig.json
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P01-Marketplace\bin\Debug\net6.0\P01-Marketplace.dll
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P01-Marketplace\bin\Debug\net6.0\P01-Marketplace.pdb
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P01-Marketplace\obj\Debug\net6.0\P01-Marketplace.dll
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P01-Marketplace\obj\Debug\net6.0\refint\P01-Marketplace.dll
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P01-Marketplace\obj\Debug\net6.0\P01-Marketplace.pdb
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P01-Marketplace\obj\Debug\net6.0\P01-Marketplace.genruntimeconfig.cache
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P01-Marketplace\obj\Debug\net6.0\ref\P01-Marketplace.dll

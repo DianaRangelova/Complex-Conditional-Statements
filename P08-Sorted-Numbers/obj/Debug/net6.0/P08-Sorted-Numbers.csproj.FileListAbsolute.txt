@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P08-Sorted-Numbers\bin\Debug\net6.0\P08-Sorted-Numbers.exe
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P08-Sorted-Numbers\bin\Debug\net6.0\P08-Sorted-Numbers.deps.json
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P08-Sorted-Numbers\bin\Debug\net6.0\P08-Sorted-Numbers.runtimeconfig.json
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P08-Sorted-Numbers\bin\Debug\net6.0\P08-Sorted-Numbers.dll
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P08-Sorted-Numbers\bin\Debug\net6.0\P08-Sorted-Numbers.pdb
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P08-Sorted-Numbers\obj\Debug\net6.0\P08-Sorted-Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P08-Sorted-Numbers\obj\Debug\net6.0\P08-Sorted-Numbers.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P08-Sorted-Numbers\obj\Debug\net6.0\P08-Sorted-Numbers.AssemblyInfo.cs
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P08-Sorted-Numbers\obj\Debug\net6.0\P08-Sorted-Numbers.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P08-Sorted-Numbers\obj\Debug\net6.0\P08-Sorted-Numbers.dll
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P08-Sorted-Numbers\obj\Debug\net6.0\refint\P08-Sorted-Numbers.dll
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P08-Sorted-Numbers\obj\Debug\net6.0\P08-Sorted-Numbers.pdb
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P08-Sorted-Numbers\obj\Debug\net6.0\P08-Sorted-Numbers.genruntimeconfig.cache
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P08-Sorted-Numbers\obj\Debug\net6.0\ref\P08-Sorted-Numbers.dll

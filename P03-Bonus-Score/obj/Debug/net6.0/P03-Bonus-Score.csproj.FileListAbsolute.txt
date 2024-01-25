@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P03-Bonus-Score\bin\Debug\net6.0\P03-Bonus-Score.exe
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P03-Bonus-Score\bin\Debug\net6.0\P03-Bonus-Score.deps.json
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P03-Bonus-Score\bin\Debug\net6.0\P03-Bonus-Score.runtimeconfig.json
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P03-Bonus-Score\bin\Debug\net6.0\P03-Bonus-Score.dll
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P03-Bonus-Score\bin\Debug\net6.0\P03-Bonus-Score.pdb
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P03-Bonus-Score\obj\Debug\net6.0\P03-Bonus-Score.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P03-Bonus-Score\obj\Debug\net6.0\P03-Bonus-Score.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P03-Bonus-Score\obj\Debug\net6.0\P03-Bonus-Score.AssemblyInfo.cs
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P03-Bonus-Score\obj\Debug\net6.0\P03-Bonus-Score.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P03-Bonus-Score\obj\Debug\net6.0\P03-Bonus-Score.dll
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P03-Bonus-Score\obj\Debug\net6.0\refint\P03-Bonus-Score.dll
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P03-Bonus-Score\obj\Debug\net6.0\P03-Bonus-Score.pdb
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P03-Bonus-Score\obj\Debug\net6.0\P03-Bonus-Score.genruntimeconfig.cache
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P03-Bonus-Score\obj\Debug\net6.0\ref\P03-Bonus-Score.dll

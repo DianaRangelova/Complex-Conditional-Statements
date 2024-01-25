@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5cilNWlxO7mBw34+No4wsHVbpd0IqfefxYxl4otrCEquiHOQFfoqAWuQonjZcFs0Dg5DwsGWN9i5oCsewAfkdg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\Complex-Conditional-Statements\\P04-Food-or-Drink-Boolean\\P04-Food-or-Drink-Boolean.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

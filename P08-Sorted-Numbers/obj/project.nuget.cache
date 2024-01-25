@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "c6F6m4FH3Hd3q7coihXiyfWlMqpHXMzH8UqdxqSiuSrbwyRE66Jgttczi8CRhZ4RIEWY7tmcrhdu7vkyANWz2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\Complex-Conditional-Statements\\P08-Sorted-Numbers\\P08-Sorted-Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

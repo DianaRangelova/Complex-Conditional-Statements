@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P04-Food-or-Drink\obj\Debug\net6.0\P04-Food-or-Drink.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P04-Food-or-Drink\obj\Debug\net6.0\P04-Food-or-Drink.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P04-Food-or-Drink\obj\Debug\net6.0\P04-Food-or-Drink.AssemblyInfo.cs
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P04-Food-or-Drink\obj\Debug\net6.0\P04-Food-or-Drink.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P04-Food-or-Drink\bin\Debug\net6.0\P04-Food-or-Drink.exe
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P04-Food-or-Drink\bin\Debug\net6.0\P04-Food-or-Drink.deps.json
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P04-Food-or-Drink\bin\Debug\net6.0\P04-Food-or-Drink.runtimeconfig.json
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P04-Food-or-Drink\bin\Debug\net6.0\P04-Food-or-Drink.dll
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P04-Food-or-Drink\bin\Debug\net6.0\P04-Food-or-Drink.pdb
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P04-Food-or-Drink\obj\Debug\net6.0\P04-Food-or-Drink.dll
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P04-Food-or-Drink\obj\Debug\net6.0\refint\P04-Food-or-Drink.dll
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P04-Food-or-Drink\obj\Debug\net6.0\P04-Food-or-Drink.pdb
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P04-Food-or-Drink\obj\Debug\net6.0\P04-Food-or-Drink.genruntimeconfig.cache
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P04-Food-or-Drink\obj\Debug\net6.0\ref\P04-Food-or-Drink.dll

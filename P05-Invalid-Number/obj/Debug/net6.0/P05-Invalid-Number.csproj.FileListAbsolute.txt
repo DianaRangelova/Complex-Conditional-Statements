@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P05-Invalid-Number\bin\Debug\net6.0\P05-Invalid-Number.exe
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P05-Invalid-Number\bin\Debug\net6.0\P05-Invalid-Number.deps.json
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P05-Invalid-Number\bin\Debug\net6.0\P05-Invalid-Number.runtimeconfig.json
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P05-Invalid-Number\bin\Debug\net6.0\P05-Invalid-Number.dll
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P05-Invalid-Number\bin\Debug\net6.0\P05-Invalid-Number.pdb
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P05-Invalid-Number\obj\Debug\net6.0\P05-Invalid-Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P05-Invalid-Number\obj\Debug\net6.0\P05-Invalid-Number.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P05-Invalid-Number\obj\Debug\net6.0\P05-Invalid-Number.AssemblyInfo.cs
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P05-Invalid-Number\obj\Debug\net6.0\P05-Invalid-Number.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P05-Invalid-Number\obj\Debug\net6.0\P05-Invalid-Number.dll
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P05-Invalid-Number\obj\Debug\net6.0\refint\P05-Invalid-Number.dll
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P05-Invalid-Number\obj\Debug\net6.0\P05-Invalid-Number.pdb
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P05-Invalid-Number\obj\Debug\net6.0\P05-Invalid-Number.genruntimeconfig.cache
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P05-Invalid-Number\obj\Debug\net6.0\ref\P05-Invalid-Number.dll

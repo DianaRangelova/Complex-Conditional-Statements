@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0xSsQ8DyYFvnGJ+JyVcXvNvI+U+Dr9BiSqENfKAper2Bb/DpwvPTUlzpuvYSTxIUfEXga2enB+DiIa9gdkbQXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\Complex-Conditional-Statements\\P09-Cinema\\P09-Cinema.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
