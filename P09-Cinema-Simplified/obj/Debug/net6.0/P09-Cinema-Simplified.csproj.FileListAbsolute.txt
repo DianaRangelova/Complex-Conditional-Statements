@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P09-Cinema-Simplified\obj\Debug\net6.0\P09-Cinema-Simplified.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P09-Cinema-Simplified\obj\Debug\net6.0\P09-Cinema-Simplified.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P09-Cinema-Simplified\obj\Debug\net6.0\P09-Cinema-Simplified.AssemblyInfo.cs
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P09-Cinema-Simplified\obj\Debug\net6.0\P09-Cinema-Simplified.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P09-Cinema-Simplified\bin\Debug\net6.0\P09-Cinema-Simplified.exe
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P09-Cinema-Simplified\bin\Debug\net6.0\P09-Cinema-Simplified.deps.json
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P09-Cinema-Simplified\bin\Debug\net6.0\P09-Cinema-Simplified.runtimeconfig.json
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P09-Cinema-Simplified\bin\Debug\net6.0\P09-Cinema-Simplified.dll
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P09-Cinema-Simplified\bin\Debug\net6.0\P09-Cinema-Simplified.pdb
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P09-Cinema-Simplified\obj\Debug\net6.0\P09-Cinema-Simplified.dll
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P09-Cinema-Simplified\obj\Debug\net6.0\refint\P09-Cinema-Simplified.dll
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P09-Cinema-Simplified\obj\Debug\net6.0\P09-Cinema-Simplified.pdb
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P09-Cinema-Simplified\obj\Debug\net6.0\P09-Cinema-Simplified.genruntimeconfig.cache
+C:\Users\PC\source\repos\Complex-Conditional-Statements\P09-Cinema-Simplified\obj\Debug\net6.0\ref\P09-Cinema-Simplified.dll
